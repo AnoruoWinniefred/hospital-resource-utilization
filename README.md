@@ -51,9 +51,9 @@ The SQL queries used for the analysis are available in the `sql` folder.
 
 The Power BI dashboard provides an interactive view of hospital resource utilization, including patient visits, encounter types, hospital utilization, admissions, and length of stay.
 
-A preview of the dashboard is shown below:
+A preview of the dashboard is shown below.
 
-*Dashboard screenshot will be added here.*
+![hospital-resource-utilization](screenshots/dashboard-overview.png)
 
 ## Key Findings
 
